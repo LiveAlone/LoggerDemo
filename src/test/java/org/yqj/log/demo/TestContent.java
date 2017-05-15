@@ -1,4 +1,5 @@
-package org.yqj.boot.demo;
+package org.yqj.log.demo;
+
 
 /**
  * Created by yaoqijun.
